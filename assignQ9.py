@@ -12,5 +12,4 @@ else:
     print("No it is not present.")  
 
 
-    #   using function
     
